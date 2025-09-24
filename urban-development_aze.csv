@@ -1,0 +1,594 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Azerbaijan,AZE,2015,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,0
+Azerbaijan,AZE,2000,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,0
+Azerbaijan,AZE,1990,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,0
+Azerbaijan,AZE,2015,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0
+Azerbaijan,AZE,2000,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0
+Azerbaijan,AZE,1990,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0
+Azerbaijan,AZE,2015,Urban land area (sq. km),AG.LND.TOTL.UR.K2,2589.858867181
+Azerbaijan,AZE,2000,Urban land area (sq. km),AG.LND.TOTL.UR.K2,2145.736266697
+Azerbaijan,AZE,1990,Urban land area (sq. km),AG.LND.TOTL.UR.K2,1823.90461321
+Azerbaijan,AZE,2023,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Azerbaijan,AZE,2022,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Azerbaijan,AZE,2021,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Azerbaijan,AZE,2020,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Azerbaijan,AZE,2019,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Azerbaijan,AZE,2018,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Azerbaijan,AZE,2017,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Azerbaijan,AZE,2016,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Azerbaijan,AZE,2015,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Azerbaijan,AZE,2014,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Azerbaijan,AZE,2013,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Azerbaijan,AZE,2012,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Azerbaijan,AZE,2011,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.9
+Azerbaijan,AZE,2010,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Azerbaijan,AZE,2009,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.9
+Azerbaijan,AZE,2008,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.8
+Azerbaijan,AZE,2007,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.7
+Azerbaijan,AZE,2006,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.8
+Azerbaijan,AZE,2005,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.6
+Azerbaijan,AZE,2004,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.5
+Azerbaijan,AZE,2003,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.5
+Azerbaijan,AZE,2002,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.5
+Azerbaijan,AZE,2001,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.5
+Azerbaijan,AZE,2000,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.7
+Azerbaijan,AZE,1999,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.5551452636719
+Azerbaijan,AZE,2020,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,21.7269999756599
+Azerbaijan,AZE,2019,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,22.023834941184
+Azerbaijan,AZE,2018,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,23.2360923544978
+Azerbaijan,AZE,2017,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,23.2421881518978
+Azerbaijan,AZE,2016,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,24.3527968807853
+Azerbaijan,AZE,2015,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,25.1867220505416
+Azerbaijan,AZE,2014,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,26.4192082058383
+Azerbaijan,AZE,2013,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,28.2339828650537
+Azerbaijan,AZE,2012,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,29.1805878419231
+Azerbaijan,AZE,2011,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,27.4281061456644
+Azerbaijan,AZE,2010,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,23.1201756676417
+Azerbaijan,AZE,2009,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,21.7342951325807
+Azerbaijan,AZE,2008,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,20.6727592862898
+Azerbaijan,AZE,2007,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,19.9134764720137
+Azerbaijan,AZE,2006,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,19.4343550329971
+Azerbaijan,AZE,2005,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,19.2133033124848
+Azerbaijan,AZE,2004,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,19.1817649122083
+Azerbaijan,AZE,2003,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,19.2603464043066
+Azerbaijan,AZE,2002,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,19.4107005876363
+Azerbaijan,AZE,2001,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,19.5944802610536
+Azerbaijan,AZE,2000,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,19.773338223415
+Azerbaijan,AZE,1999,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,20.0010746348788
+Azerbaijan,AZE,1998,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,20.3058658224496
+Azerbaijan,AZE,1997,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,20.6109288352535
+Azerbaijan,AZE,1996,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,20.8394807224165
+Azerbaijan,AZE,1995,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,20.9147385330648
+Azerbaijan,AZE,1994,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,20.8277757550846
+Azerbaijan,AZE,1993,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,20.6244977588719
+Azerbaijan,AZE,1992,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,20.3103694173176
+Azerbaijan,AZE,1991,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,19.8908556033125
+Azerbaijan,AZE,1990,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,19.3714211897473
+Azerbaijan,AZE,2017,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Azerbaijan,AZE,2016,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Azerbaijan,AZE,2015,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Azerbaijan,AZE,2014,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Azerbaijan,AZE,2013,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Azerbaijan,AZE,2012,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Azerbaijan,AZE,2011,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Azerbaijan,AZE,2010,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Azerbaijan,AZE,2005,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Azerbaijan,AZE,2000,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Azerbaijan,AZE,1995,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Azerbaijan,AZE,1990,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Azerbaijan,AZE,2022,Population density (people per sq. km of land area),EN.POP.DNST,122.707271627344
+Azerbaijan,AZE,2021,Population density (people per sq. km of land area),EN.POP.DNST,122.658802177858
+Azerbaijan,AZE,2020,Population density (people per sq. km of land area),EN.POP.DNST,122.124736829369
+Azerbaijan,AZE,2019,Population density (people per sq. km of land area),EN.POP.DNST,121.280071139933
+Azerbaijan,AZE,2018,Population density (people per sq. km of land area),EN.POP.DNST,120.25759188908
+Azerbaijan,AZE,2017,Population density (people per sq. km of land area),EN.POP.DNST,119.208741622511
+Azerbaijan,AZE,2016,Population density (people per sq. km of land area),EN.POP.DNST,118.033288980283
+Azerbaijan,AZE,2015,Population density (people per sq. km of land area),EN.POP.DNST,116.731076781631
+Azerbaijan,AZE,2014,Population density (people per sq. km of land area),EN.POP.DNST,115.348813858679
+Azerbaijan,AZE,2013,Population density (people per sq. km of land area),EN.POP.DNST,113.923480806688
+Azerbaijan,AZE,2012,Population density (people per sq. km of land area),EN.POP.DNST,112.460790244138
+Azerbaijan,AZE,2011,Population density (people per sq. km of land area),EN.POP.DNST,110.976336228798
+Azerbaijan,AZE,2010,Population density (people per sq. km of land area),EN.POP.DNST,109.542344173442
+Azerbaijan,AZE,2009,Population density (people per sq. km of land area),EN.POP.DNST,108.291290455327
+Azerbaijan,AZE,2008,Population density (people per sq. km of land area),EN.POP.DNST,106.059762547351
+Azerbaijan,AZE,2007,Population density (people per sq. km of land area),EN.POP.DNST,103.853368672016
+Azerbaijan,AZE,2006,Population density (people per sq. km of land area),EN.POP.DNST,102.672531674674
+Azerbaijan,AZE,2005,Population density (people per sq. km of land area),EN.POP.DNST,101.522501814662
+Azerbaijan,AZE,2004,Population density (people per sq. km of land area),EN.POP.DNST,100.475372556609
+Azerbaijan,AZE,2003,Population density (people per sq. km of land area),EN.POP.DNST,99.6237235638581
+Azerbaijan,AZE,2002,Population density (people per sq. km of land area),EN.POP.DNST,98.9124645960929
+Azerbaijan,AZE,2001,Population density (people per sq. km of land area),EN.POP.DNST,98.1937920681807
+Azerbaijan,AZE,2000,Population density (people per sq. km of land area),EN.POP.DNST,97.434779976999
+Azerbaijan,AZE,1999,Population density (people per sq. km of land area),EN.POP.DNST,96.5207665800133
+Azerbaijan,AZE,1998,Population density (people per sq. km of land area),EN.POP.DNST,95.2317912675107
+Azerbaijan,AZE,1997,Population density (people per sq. km of land area),EN.POP.DNST,94.1904899239338
+Azerbaijan,AZE,1996,Population density (people per sq. km of land area),EN.POP.DNST,93.2862275736929
+Azerbaijan,AZE,1995,Population density (people per sq. km of land area),EN.POP.DNST,92.3471165747383
+Azerbaijan,AZE,1994,Population density (people per sq. km of land area),EN.POP.DNST,91.2860353052862
+Azerbaijan,AZE,1993,Population density (people per sq. km of land area),EN.POP.DNST,90.0633284064554
+Azerbaijan,AZE,1992,Population density (people per sq. km of land area),EN.POP.DNST,88.7084369780213
+Azerbaijan,AZE,2015,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,0
+Azerbaijan,AZE,2000,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,0
+Azerbaijan,AZE,1990,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,0
+Azerbaijan,AZE,2012,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,26.92667
+Azerbaijan,AZE,2010,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,26.92667
+Azerbaijan,AZE,2008,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,26.92667
+Azerbaijan,AZE,2006,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,32.93
+Azerbaijan,AZE,2004,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,38.93333
+Azerbaijan,AZE,2002,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,44.93667
+Azerbaijan,AZE,2000,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,50.94
+Azerbaijan,AZE,2024,Population in largest city,EN.URB.LCTY,2464162
+Azerbaijan,AZE,2023,Population in largest city,EN.URB.LCTY,2432304
+Azerbaijan,AZE,2022,Population in largest city,EN.URB.LCTY,2401108
+Azerbaijan,AZE,2021,Population in largest city,EN.URB.LCTY,2370776
+Azerbaijan,AZE,2020,Population in largest city,EN.URB.LCTY,2341443
+Azerbaijan,AZE,2019,Population in largest city,EN.URB.LCTY,2313138
+Azerbaijan,AZE,2018,Population in largest city,EN.URB.LCTY,2285729
+Azerbaijan,AZE,2017,Population in largest city,EN.URB.LCTY,2258971
+Azerbaijan,AZE,2016,Population in largest city,EN.URB.LCTY,2232526
+Azerbaijan,AZE,2015,Population in largest city,EN.URB.LCTY,2206320
+Azerbaijan,AZE,2014,Population in largest city,EN.URB.LCTY,2180456
+Azerbaijan,AZE,2013,Population in largest city,EN.URB.LCTY,2154896
+Azerbaijan,AZE,2012,Population in largest city,EN.URB.LCTY,2129670
+Azerbaijan,AZE,2011,Population in largest city,EN.URB.LCTY,2104671
+Azerbaijan,AZE,2010,Population in largest city,EN.URB.LCTY,2061843
+Azerbaijan,AZE,2009,Population in largest city,EN.URB.LCTY,2002541
+Azerbaijan,AZE,2008,Population in largest city,EN.URB.LCTY,1945022
+Azerbaijan,AZE,2007,Population in largest city,EN.URB.LCTY,1905967
+Azerbaijan,AZE,2006,Population in largest city,EN.URB.LCTY,1884268
+Azerbaijan,AZE,2005,Population in largest city,EN.URB.LCTY,1867301
+Azerbaijan,AZE,2004,Population in largest city,EN.URB.LCTY,1854885
+Azerbaijan,AZE,2003,Population in largest city,EN.URB.LCTY,1842519
+Azerbaijan,AZE,2002,Population in largest city,EN.URB.LCTY,1830251
+Azerbaijan,AZE,2001,Population in largest city,EN.URB.LCTY,1818065
+Azerbaijan,AZE,2000,Population in largest city,EN.URB.LCTY,1805977
+Azerbaijan,AZE,1999,Population in largest city,EN.URB.LCTY,1793936
+Azerbaijan,AZE,1998,Population in largest city,EN.URB.LCTY,1785082
+Azerbaijan,AZE,1997,Population in largest city,EN.URB.LCTY,1778545
+Azerbaijan,AZE,1996,Population in largest city,EN.URB.LCTY,1772041
+Azerbaijan,AZE,1995,Population in largest city,EN.URB.LCTY,1765543
+Azerbaijan,AZE,1994,Population in largest city,EN.URB.LCTY,1759077
+Azerbaijan,AZE,1993,Population in largest city,EN.URB.LCTY,1752636
+Azerbaijan,AZE,1992,Population in largest city,EN.URB.LCTY,1746226
+Azerbaijan,AZE,1991,Population in largest city,EN.URB.LCTY,1739823
+Azerbaijan,AZE,1990,Population in largest city,EN.URB.LCTY,1733452
+Azerbaijan,AZE,1989,Population in largest city,EN.URB.LCTY,1727104
+Azerbaijan,AZE,1988,Population in largest city,EN.URB.LCTY,1714392
+Azerbaijan,AZE,1987,Population in largest city,EN.URB.LCTY,1696194
+Azerbaijan,AZE,1986,Population in largest city,EN.URB.LCTY,1678213
+Azerbaijan,AZE,1985,Population in largest city,EN.URB.LCTY,1660424
+Azerbaijan,AZE,1984,Population in largest city,EN.URB.LCTY,1642846
+Azerbaijan,AZE,1983,Population in largest city,EN.URB.LCTY,1625408
+Azerbaijan,AZE,1982,Population in largest city,EN.URB.LCTY,1608178
+Azerbaijan,AZE,1981,Population in largest city,EN.URB.LCTY,1591131
+Azerbaijan,AZE,1980,Population in largest city,EN.URB.LCTY,1574287
+Azerbaijan,AZE,1979,Population in largest city,EN.URB.LCTY,1557576
+Azerbaijan,AZE,1978,Population in largest city,EN.URB.LCTY,1530841
+Azerbaijan,AZE,1977,Population in largest city,EN.URB.LCTY,1496142
+Azerbaijan,AZE,1976,Population in largest city,EN.URB.LCTY,1462275
+Azerbaijan,AZE,1975,Population in largest city,EN.URB.LCTY,1429085
+Azerbaijan,AZE,1974,Population in largest city,EN.URB.LCTY,1396692
+Azerbaijan,AZE,1973,Population in largest city,EN.URB.LCTY,1365033
+Azerbaijan,AZE,1972,Population in largest city,EN.URB.LCTY,1334134
+Azerbaijan,AZE,1971,Population in largest city,EN.URB.LCTY,1303852
+Azerbaijan,AZE,1970,Population in largest city,EN.URB.LCTY,1274298
+Azerbaijan,AZE,1969,Population in largest city,EN.URB.LCTY,1244857
+Azerbaijan,AZE,1968,Population in largest city,EN.URB.LCTY,1215677
+Azerbaijan,AZE,1967,Population in largest city,EN.URB.LCTY,1187103
+Azerbaijan,AZE,1966,Population in largest city,EN.URB.LCTY,1159239
+Azerbaijan,AZE,1965,Population in largest city,EN.URB.LCTY,1132029
+Azerbaijan,AZE,1964,Population in largest city,EN.URB.LCTY,1105494
+Azerbaijan,AZE,1963,Population in largest city,EN.URB.LCTY,1079510
+Azerbaijan,AZE,1962,Population in largest city,EN.URB.LCTY,1054171
+Azerbaijan,AZE,1961,Population in largest city,EN.URB.LCTY,1029427
+Azerbaijan,AZE,1960,Population in largest city,EN.URB.LCTY,1005297
+Azerbaijan,AZE,2024,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,41.6430200899153
+Azerbaijan,AZE,2023,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,41.6038467801416
+Azerbaijan,AZE,2022,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,41.412394046128
+Azerbaijan,AZE,2021,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,41.1892750436993
+Azerbaijan,AZE,2020,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,41.1341134745917
+Azerbaijan,AZE,2019,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,41.1831774709233
+Azerbaijan,AZE,2018,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,41.2999163062584
+Azerbaijan,AZE,2017,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,41.4222785039453
+Azerbaijan,AZE,2016,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,41.5829770494441
+Azerbaijan,AZE,2015,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,41.7900044322043
+Azerbaijan,AZE,2014,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,42.0192704783279
+Azerbaijan,AZE,2013,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,42.263412024217
+Azerbaijan,AZE,2012,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,42.5181683529164
+Azerbaijan,AZE,2011,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,42.7764225841161
+Azerbaijan,AZE,2010,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,42.6392037153114
+Azerbaijan,AZE,2009,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,42.0786843730425
+Azerbaijan,AZE,2008,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,41.8849432546192
+Azerbaijan,AZE,2007,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,42.0736951410001
+Azerbaijan,AZE,2006,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,42.2297924221303
+Azerbaijan,AZE,2005,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,42.4733520971448
+Azerbaijan,AZE,2004,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,42.7878015602484
+Azerbaijan,AZE,2003,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,43.0420272737636
+Azerbaijan,AZE,2002,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,43.2478152215213
+Azerbaijan,AZE,2001,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,43.4494213523089
+Azerbaijan,AZE,2000,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,43.6663624973222
+Azerbaijan,AZE,1999,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,43.9047658439083
+Azerbaijan,AZE,1998,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,43.9932393999647
+Azerbaijan,AZE,1997,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,43.9842407599572
+Azerbaijan,AZE,1996,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,43.9855823958482
+Azerbaijan,AZE,1995,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,44.0070708704713
+Azerbaijan,AZE,1994,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,44.0945693109215
+Azerbaijan,AZE,1993,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,44.2690714168262
+Azerbaijan,AZE,1992,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,44.5212431394275
+Azerbaijan,AZE,1991,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,44.7732352339447
+Azerbaijan,AZE,1990,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,44.947697426592
+Azerbaijan,AZE,1989,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,45.1486666260606
+Azerbaijan,AZE,1988,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,45.4403579266547
+Azerbaijan,AZE,1987,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,45.775407708064
+Azerbaijan,AZE,1986,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,46.1624812127694
+Azerbaijan,AZE,1985,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,46.5313696878458
+Azerbaijan,AZE,1984,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,46.9304387421806
+Azerbaijan,AZE,1983,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,47.3510876218038
+Azerbaijan,AZE,1982,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,47.7112695904583
+Azerbaijan,AZE,1981,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,48.0680703844706
+Azerbaijan,AZE,1980,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,48.4198298110279
+Azerbaijan,AZE,1979,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,48.7223176114686
+Azerbaijan,AZE,1978,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,48.7995062800426
+Azerbaijan,AZE,1977,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,48.6886868774964
+Azerbaijan,AZE,1976,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,48.5536263933299
+Azerbaijan,AZE,1975,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,48.4034254987221
+Azerbaijan,AZE,1974,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,48.294386173349
+Azerbaijan,AZE,1973,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,48.3664750833637
+Azerbaijan,AZE,1972,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,48.5994102358146
+Azerbaijan,AZE,1971,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,48.9088414265898
+Azerbaijan,AZE,1970,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,49.2684343222477
+Azerbaijan,AZE,1969,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,49.2081713131236
+Azerbaijan,AZE,1968,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,48.8760546222457
+Azerbaijan,AZE,1967,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,48.5870061704646
+Azerbaijan,AZE,1966,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,48.4074558002433
+Azerbaijan,AZE,1965,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,48.3654436903084
+Azerbaijan,AZE,1964,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,48.3886132286564
+Azerbaijan,AZE,1963,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,48.5715944068719
+Azerbaijan,AZE,1962,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,48.5769358731785
+Azerbaijan,AZE,1961,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,48.5918687459199
+Azerbaijan,AZE,1960,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,49.0159003511037
+Azerbaijan,AZE,2024,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2464162
+Azerbaijan,AZE,2023,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2432304
+Azerbaijan,AZE,2022,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2401108
+Azerbaijan,AZE,2021,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2370776
+Azerbaijan,AZE,2020,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2341443
+Azerbaijan,AZE,2019,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2313138
+Azerbaijan,AZE,2018,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2285729
+Azerbaijan,AZE,2017,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2258971
+Azerbaijan,AZE,2016,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2232526
+Azerbaijan,AZE,2015,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2206320
+Azerbaijan,AZE,2014,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2180456
+Azerbaijan,AZE,2013,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2154896
+Azerbaijan,AZE,2012,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2129670
+Azerbaijan,AZE,2011,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2104671
+Azerbaijan,AZE,2010,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2061843
+Azerbaijan,AZE,2009,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2002541
+Azerbaijan,AZE,2008,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1945022
+Azerbaijan,AZE,2007,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1905967
+Azerbaijan,AZE,2006,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1884268
+Azerbaijan,AZE,2005,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1867301
+Azerbaijan,AZE,2004,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1854885
+Azerbaijan,AZE,2003,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1842519
+Azerbaijan,AZE,2002,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1830251
+Azerbaijan,AZE,2001,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1818065
+Azerbaijan,AZE,2000,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1805977
+Azerbaijan,AZE,1999,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1793936
+Azerbaijan,AZE,1998,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1785082
+Azerbaijan,AZE,1997,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1778545
+Azerbaijan,AZE,1996,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1772041
+Azerbaijan,AZE,1995,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1765543
+Azerbaijan,AZE,1994,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1759077
+Azerbaijan,AZE,1993,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1752636
+Azerbaijan,AZE,1992,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1746226
+Azerbaijan,AZE,1991,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1739823
+Azerbaijan,AZE,1990,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1733452
+Azerbaijan,AZE,1989,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1727104
+Azerbaijan,AZE,1988,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1714392
+Azerbaijan,AZE,1987,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1696194
+Azerbaijan,AZE,1986,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1678213
+Azerbaijan,AZE,1985,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1660424
+Azerbaijan,AZE,1984,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1642846
+Azerbaijan,AZE,1983,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1625408
+Azerbaijan,AZE,1982,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1608178
+Azerbaijan,AZE,1981,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1591131
+Azerbaijan,AZE,1980,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1574287
+Azerbaijan,AZE,1979,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1557576
+Azerbaijan,AZE,1978,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1530841
+Azerbaijan,AZE,1977,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1496142
+Azerbaijan,AZE,1976,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1462275
+Azerbaijan,AZE,1975,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1429085
+Azerbaijan,AZE,1974,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1396692
+Azerbaijan,AZE,1973,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1365033
+Azerbaijan,AZE,1972,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1334134
+Azerbaijan,AZE,1971,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1303852
+Azerbaijan,AZE,1970,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1274298
+Azerbaijan,AZE,1969,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1244857
+Azerbaijan,AZE,1968,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1215677
+Azerbaijan,AZE,1967,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1187103
+Azerbaijan,AZE,1966,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1159239
+Azerbaijan,AZE,1965,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1132029
+Azerbaijan,AZE,1964,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1105494
+Azerbaijan,AZE,1963,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1079510
+Azerbaijan,AZE,1962,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1054171
+Azerbaijan,AZE,1961,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1029427
+Azerbaijan,AZE,1960,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1005297
+Azerbaijan,AZE,2024,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.1517027105172
+Azerbaijan,AZE,2023,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.9542452312684
+Azerbaijan,AZE,2022,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.6754660632735
+Azerbaijan,AZE,2021,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.3856230425883
+Azerbaijan,AZE,2020,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.1984041408005
+Azerbaijan,AZE,2019,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.0753461369756
+Azerbaijan,AZE,2018,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.9957913517323
+Azerbaijan,AZE,2017,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.9243295613075
+Azerbaijan,AZE,2016,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.8793709081503
+Azerbaijan,AZE,2015,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.8649811422355
+Azerbaijan,AZE,2014,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.8677287309313
+Azerbaijan,AZE,2013,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.8835248828132
+Azerbaijan,AZE,2012,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.9100633147242
+Azerbaijan,AZE,2011,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.9439898171629
+Azerbaijan,AZE,2010,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.7718952651615
+Azerbaijan,AZE,2009,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.3816543263662
+Azerbaijan,AZE,2008,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.1948330556633
+Azerbaijan,AZE,2007,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.2107023411371
+Azerbaijan,AZE,2006,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.2082255393627
+Azerbaijan,AZE,2005,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.251362929509
+Azerbaijan,AZE,2004,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.330524288208
+Azerbaijan,AZE,2003,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.3766896199949
+Azerbaijan,AZE,2002,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.3967474103488
+Azerbaijan,AZE,2001,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.4142543643357
+Azerbaijan,AZE,2000,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.4383992247099
+Azerbaijan,AZE,1999,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.4726566659359
+Azerbaijan,AZE,1998,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.5588525211677
+Azerbaijan,AZE,1997,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.6905878225369
+Azerbaijan,AZE,1996,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.8267551204431
+Azerbaijan,AZE,1995,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.9743326154707
+Azerbaijan,AZE,1994,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.1562617240721
+Azerbaijan,AZE,1993,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.3846933874153
+Azerbaijan,AZE,1992,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.6550280748573
+Azerbaijan,AZE,1991,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.9272619751626
+Azerbaijan,AZE,1990,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.1589363362694
+Azerbaijan,AZE,1989,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.4060170563339
+Azerbaijan,AZE,1988,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.5805064089697
+Azerbaijan,AZE,1987,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.6706567665646
+Azerbaijan,AZE,1986,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.7878675981862
+Azerbaijan,AZE,1985,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.893353222941
+Azerbaijan,AZE,1984,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.0134518906491
+Azerbaijan,AZE,1983,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.1618935570761
+Azerbaijan,AZE,1982,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.2955619696267
+Azerbaijan,AZE,1981,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.4265670568495
+Azerbaijan,AZE,1980,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.5545329112897
+Azerbaijan,AZE,1979,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.6547362179434
+Azerbaijan,AZE,1978,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.6158396291927
+Azerbaijan,AZE,1977,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.4612629017299
+Azerbaijan,AZE,1976,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.294499221588
+Azerbaijan,AZE,1975,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.1199233615454
+Azerbaijan,AZE,1974,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.9672333351209
+Azerbaijan,AZE,1973,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.846338666521
+Azerbaijan,AZE,1972,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.7453653469846
+Azerbaijan,AZE,1971,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.6803774406345
+Azerbaijan,AZE,1970,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.6381608839822
+Azerbaijan,AZE,1969,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.5858827247052
+Azerbaijan,AZE,1968,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.5665757300192
+Azerbaijan,AZE,1967,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.5675289735099
+Azerbaijan,AZE,1966,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.6219640410777
+Azerbaijan,AZE,1965,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.7456963920737
+Azerbaijan,AZE,1964,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.9027200540632
+Azerbaijan,AZE,1963,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.1425976173563
+Azerbaijan,AZE,1962,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.2911003682689
+Azerbaijan,AZE,1961,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.4446517950936
+Azerbaijan,AZE,1960,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.8132494543587
+Azerbaijan,AZE,2019,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,6.7
+Azerbaijan,AZE,2018,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,8.1
+Azerbaijan,AZE,2017,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,8.5
+Azerbaijan,AZE,2016,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,8.7
+Azerbaijan,AZE,2015,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,10.3
+Azerbaijan,AZE,2014,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,13.2
+Azerbaijan,AZE,2013,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,13.8
+Azerbaijan,AZE,2012,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14
+Azerbaijan,AZE,2011,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,12.4
+Azerbaijan,AZE,2010,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,11.4
+Azerbaijan,AZE,2009,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,11.6
+Azerbaijan,AZE,2008,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,13.3
+Azerbaijan,AZE,2007,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,13.7
+Azerbaijan,AZE,2006,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,13.2
+Azerbaijan,AZE,2005,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,13.9
+Azerbaijan,AZE,2004,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,10.7
+Azerbaijan,AZE,2003,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.5
+Azerbaijan,AZE,2002,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,10.1
+Azerbaijan,AZE,2001,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,10
+Azerbaijan,AZE,2000,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,8.2
+Azerbaijan,AZE,2024,Urban population growth (annual %),SP.URB.GROW,1.20716979468198
+Azerbaijan,AZE,2023,Urban population growth (annual %),SP.URB.GROW,0.829623426118855
+Azerbaijan,AZE,2022,Urban population growth (annual %),SP.URB.GROW,0.731066864167429
+Azerbaijan,AZE,2021,Urban population growth (annual %),SP.URB.GROW,1.11098025254736
+Azerbaijan,AZE,2020,Urban population growth (annual %),SP.URB.GROW,1.33544321101787
+Azerbaijan,AZE,2019,Urban population growth (annual %),SP.URB.GROW,1.47506479033467
+Azerbaijan,AZE,2018,Urban population growth (annual %),SP.URB.GROW,1.47340015238086
+Azerbaijan,AZE,2017,Urban population growth (annual %),SP.URB.GROW,1.56477337981076
+Azerbaijan,AZE,2016,Urban population growth (annual %),SP.URB.GROW,1.6774015137061
+Azerbaijan,AZE,2015,Urban population growth (annual %),SP.URB.GROW,1.72630914534638
+Azerbaijan,AZE,2014,Urban population growth (annual %),SP.URB.GROW,1.75849805273914
+Azerbaijan,AZE,2013,Urban population growth (annual %),SP.URB.GROW,1.7785151839915
+Azerbaijan,AZE,2012,Urban population growth (annual %),SP.URB.GROW,1.78634791175657
+Azerbaijan,AZE,2011,Urban population growth (annual %),SP.URB.GROW,1.73459458477812
+Azerbaijan,AZE,2010,Urban population growth (annual %),SP.URB.GROW,1.59505668203145
+Azerbaijan,AZE,2009,Urban population growth (annual %),SP.URB.GROW,2.45286958706445
+Azerbaijan,AZE,2008,Urban population growth (annual %),SP.URB.GROW,2.47801108138936
+Azerbaijan,AZE,2007,Urban population growth (annual %),SP.URB.GROW,1.51533013846802
+Azerbaijan,AZE,2006,Urban population growth (annual %),SP.URB.GROW,1.47962600704689
+Azerbaijan,AZE,2005,Urban population growth (annual %),SP.URB.GROW,1.40475551381099
+Azerbaijan,AZE,2004,Urban population growth (annual %),SP.URB.GROW,1.26130075641327
+Azerbaijan,AZE,2003,Urban population growth (annual %),SP.URB.GROW,1.14502413490342
+Azerbaijan,AZE,2002,Urban population growth (annual %),SP.URB.GROW,1.13311843032047
+Azerbaijan,AZE,2001,Urban population growth (annual %),SP.URB.GROW,1.16515638336764
+Azerbaijan,AZE,2000,Urban population growth (annual %),SP.URB.GROW,1.21344378120309
+Azerbaijan,AZE,1999,Urban population growth (annual %),SP.URB.GROW,0.696083253664727
+Azerbaijan,AZE,1998,Urban population growth (annual %),SP.URB.GROW,0.346417134807344
+Azerbaijan,AZE,1997,Urban population growth (annual %),SP.URB.GROW,0.369412687908159
+Azerbaijan,AZE,1996,Urban population growth (annual %),SP.URB.GROW,0.416211302502955
+Azerbaijan,AZE,1995,Urban population growth (annual %),SP.URB.GROW,0.565535951091357
+Azerbaijan,AZE,1994,Urban population growth (annual %),SP.URB.GROW,0.76179404113421
+Azerbaijan,AZE,1993,Urban population growth (annual %),SP.URB.GROW,0.93442306925128
+Azerbaijan,AZE,1992,Urban population growth (annual %),SP.URB.GROW,0.93175877346184
+Azerbaijan,AZE,1991,Urban population growth (annual %),SP.URB.GROW,0.755758911452132
+Azerbaijan,AZE,1990,Urban population growth (annual %),SP.URB.GROW,0.812999167273817
+Azerbaijan,AZE,1989,Urban population growth (annual %),SP.URB.GROW,1.3827422529019
+Azerbaijan,AZE,1988,Urban population growth (annual %),SP.URB.GROW,1.80179272068718
+Azerbaijan,AZE,1987,Urban population growth (annual %),SP.URB.GROW,1.90777566944757
+Azerbaijan,AZE,1986,Urban population growth (annual %),SP.URB.GROW,1.86158742644097
+Azerbaijan,AZE,1985,Urban population growth (annual %),SP.URB.GROW,1.91826643004076
+Azerbaijan,AZE,1984,Urban population growth (annual %),SP.URB.GROW,1.95945530712178
+Azerbaijan,AZE,1983,Urban population growth (annual %),SP.URB.GROW,1.82348405841068
+Azerbaijan,AZE,1982,Urban population growth (annual %),SP.URB.GROW,1.81072865989723
+Azerbaijan,AZE,1981,Urban population growth (annual %),SP.URB.GROW,1.79339100904576
+Azerbaijan,AZE,1980,Urban population growth (annual %),SP.URB.GROW,1.68994603664663
+Azerbaijan,AZE,1979,Urban population growth (annual %),SP.URB.GROW,1.88965123481942
+Azerbaijan,AZE,1978,Urban population growth (annual %),SP.URB.GROW,2.0653967954564
+Azerbaijan,AZE,1977,Urban population growth (annual %),SP.URB.GROW,2.01185378474951
+Azerbaijan,AZE,1976,Urban population growth (annual %),SP.URB.GROW,1.98607628453054
+Azerbaijan,AZE,1975,Urban population growth (annual %),SP.URB.GROW,2.0672535431121
+Azerbaijan,AZE,1974,Urban population growth (annual %),SP.URB.GROW,2.44195639024245
+Azerbaijan,AZE,1973,Urban population growth (annual %),SP.URB.GROW,2.77006975588606
+Azerbaijan,AZE,1972,Urban population growth (annual %),SP.URB.GROW,2.93062227329197
+Azerbaijan,AZE,1971,Urban population growth (annual %),SP.URB.GROW,3.02529335221888
+Azerbaijan,AZE,1970,Urban population growth (annual %),SP.URB.GROW,2.21508696273332
+Azerbaijan,AZE,1969,Urban population growth (annual %),SP.URB.GROW,1.69474433361715
+Azerbaijan,AZE,1968,Urban population growth (annual %),SP.URB.GROW,1.78537744077269
+Azerbaijan,AZE,1967,Urban population growth (annual %),SP.URB.GROW,2.0049844797831
+Azerbaijan,AZE,1966,Urban population growth (annual %),SP.URB.GROW,2.2883895586456
+Azerbaijan,AZE,1965,Urban population growth (annual %),SP.URB.GROW,2.41982407266426
+Azerbaijan,AZE,1964,Urban population growth (annual %),SP.URB.GROW,2.75594200496933
+Azerbaijan,AZE,1963,Urban population growth (annual %),SP.URB.GROW,2.38625233720427
+Azerbaijan,AZE,1962,Urban population growth (annual %),SP.URB.GROW,2.40596986876649
+Azerbaijan,AZE,1961,Urban population growth (annual %),SP.URB.GROW,3.24078518030738
+Azerbaijan,AZE,2024,Urban population,SP.URB.TOTL,5917347
+Azerbaijan,AZE,2023,Urban population,SP.URB.TOTL,5846344
+Azerbaijan,AZE,2022,Urban population,SP.URB.TOTL,5798042
+Azerbaijan,AZE,2021,Urban population,SP.URB.TOTL,5755809
+Azerbaijan,AZE,2020,Urban population,SP.URB.TOTL,5692217
+Azerbaijan,AZE,2019,Urban population,SP.URB.TOTL,5616706
+Azerbaijan,AZE,2018,Urban population,SP.URB.TOTL,5534464
+Azerbaijan,AZE,2017,Urban population,SP.URB.TOTL,5453517
+Azerbaijan,AZE,2016,Urban population,SP.URB.TOTL,5368846
+Azerbaijan,AZE,2015,Urban population,SP.URB.TOTL,5279540
+Azerbaijan,AZE,2014,Urban population,SP.URB.TOTL,5189181
+Azerbaijan,AZE,2013,Urban population,SP.URB.TOTL,5098727
+Azerbaijan,AZE,2012,Urban population,SP.URB.TOTL,5008847
+Azerbaijan,AZE,2011,Urban population,SP.URB.TOTL,4920166
+Azerbaijan,AZE,2010,Urban population,SP.URB.TOTL,4835557
+Azerbaijan,AZE,2009,Urban population,SP.URB.TOTL,4759039
+Azerbaijan,AZE,2008,Urban population,SP.URB.TOTL,4643726
+Azerbaijan,AZE,2007,Urban population,SP.URB.TOTL,4530068
+Azerbaijan,AZE,2006,Urban population,SP.URB.TOTL,4461940
+Azerbaijan,AZE,2005,Urban population,SP.URB.TOTL,4396406
+Azerbaijan,AZE,2004,Urban population,SP.URB.TOTL,4335079
+Azerbaijan,AZE,2003,Urban population,SP.URB.TOTL,4280744
+Azerbaijan,AZE,2002,Urban population,SP.URB.TOTL,4232008
+Azerbaijan,AZE,2001,Urban population,SP.URB.TOTL,4184325
+Azerbaijan,AZE,2000,Urban population,SP.URB.TOTL,4135854
+Azerbaijan,AZE,1999,Urban population,SP.URB.TOTL,4085971
+Azerbaijan,AZE,1998,Urban population,SP.URB.TOTL,4057628
+Azerbaijan,AZE,1997,Urban population,SP.URB.TOTL,4043596
+Azerbaijan,AZE,1996,Urban population,SP.URB.TOTL,4028686
+Azerbaijan,AZE,1995,Urban population,SP.URB.TOTL,4011953
+Azerbaijan,AZE,1994,Urban population,SP.URB.TOTL,3989328
+Azerbaijan,AZE,1993,Urban population,SP.URB.TOTL,3959053
+Azerbaijan,AZE,1992,Urban population,SP.URB.TOTL,3922231
+Azerbaijan,AZE,1991,Urban population,SP.URB.TOTL,3885855
+Azerbaijan,AZE,1990,Urban population,SP.URB.TOTL,3856598
+Azerbaijan,AZE,1989,Urban population,SP.URB.TOTL,3825371
+Azerbaijan,AZE,1988,Urban population,SP.URB.TOTL,3772840
+Azerbaijan,AZE,1987,Urban population,SP.URB.TOTL,3705470
+Azerbaijan,AZE,1986,Urban population,SP.URB.TOTL,3635448
+Azerbaijan,AZE,1985,Urban population,SP.URB.TOTL,3568397
+Azerbaijan,AZE,1984,Urban population,SP.URB.TOTL,3500598
+Azerbaijan,AZE,1983,Urban population,SP.URB.TOTL,3432673
+Azerbaijan,AZE,1982,Urban population,SP.URB.TOTL,3370646
+Azerbaijan,AZE,1981,Urban population,SP.URB.TOTL,3310162
+Azerbaijan,AZE,1980,Urban population,SP.URB.TOTL,3251327
+Azerbaijan,AZE,1979,Urban population,SP.URB.TOTL,3196843
+Azerbaijan,AZE,1978,Urban population,SP.URB.TOTL,3137001
+Azerbaijan,AZE,1977,Urban population,SP.URB.TOTL,3072874
+Azerbaijan,AZE,1976,Urban population,SP.URB.TOTL,3011670
+Azerbaijan,AZE,1975,Urban population,SP.URB.TOTL,2952446
+Azerbaijan,AZE,1974,Urban population,SP.URB.TOTL,2892038
+Azerbaijan,AZE,1973,Urban population,SP.URB.TOTL,2822271
+Azerbaijan,AZE,1972,Urban population,SP.URB.TOTL,2745165
+Azerbaijan,AZE,1971,Urban population,SP.URB.TOTL,2665882
+Azerbaijan,AZE,1970,Urban population,SP.URB.TOTL,2586439
+Azerbaijan,AZE,1969,Urban population,SP.URB.TOTL,2529777
+Azerbaijan,AZE,1968,Urban population,SP.URB.TOTL,2487265
+Azerbaijan,AZE,1967,Urban population,SP.URB.TOTL,2443252
+Azerbaijan,AZE,1966,Urban population,SP.URB.TOTL,2394753
+Azerbaijan,AZE,1965,Urban population,SP.URB.TOTL,2340574
+Azerbaijan,AZE,1964,Urban population,SP.URB.TOTL,2284616
+Azerbaijan,AZE,1963,Urban population,SP.URB.TOTL,2222513
+Azerbaijan,AZE,1962,Urban population,SP.URB.TOTL,2170106
+Azerbaijan,AZE,1961,Urban population,SP.URB.TOTL,2118517
+Azerbaijan,AZE,1960,Urban population,SP.URB.TOTL,2050961
+Azerbaijan,AZE,2024,Urban population (% of total population),SP.URB.TOTL.IN.ZS,57.997
+Azerbaijan,AZE,2023,Urban population (% of total population),SP.URB.TOTL.IN.ZS,57.577
+Azerbaijan,AZE,2022,Urban population (% of total population),SP.URB.TOTL.IN.ZS,57.17
+Azerbaijan,AZE,2021,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.776
+Azerbaijan,AZE,2020,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.397
+Azerbaijan,AZE,2019,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.031
+Azerbaijan,AZE,2018,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.68
+Azerbaijan,AZE,2017,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.343
+Azerbaijan,AZE,2016,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.021
+Azerbaijan,AZE,2015,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.714
+Azerbaijan,AZE,2014,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.422
+Azerbaijan,AZE,2013,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.145
+Azerbaijan,AZE,2012,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.883
+Azerbaijan,AZE,2011,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.637
+Azerbaijan,AZE,2010,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.406
+Azerbaijan,AZE,2009,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.19
+Azerbaijan,AZE,2008,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.99
+Azerbaijan,AZE,2007,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.79
+Azerbaijan,AZE,2006,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.589
+Azerbaijan,AZE,2005,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.389
+Azerbaijan,AZE,2004,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.189
+Azerbaijan,AZE,2003,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.988
+Azerbaijan,AZE,2002,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.787
+Azerbaijan,AZE,2001,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.587
+Azerbaijan,AZE,2000,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.386
+Azerbaijan,AZE,1999,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.185
+Azerbaijan,AZE,1998,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.278
+Azerbaijan,AZE,1997,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.588
+Azerbaijan,AZE,1996,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.896
+Azerbaijan,AZE,1995,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.206
+Azerbaijan,AZE,1994,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.515
+Azerbaijan,AZE,1993,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.824
+Azerbaijan,AZE,1992,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.132
+Azerbaijan,AZE,1991,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.441
+Azerbaijan,AZE,1990,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.749
+Azerbaijan,AZE,1989,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.057
+Azerbaijan,AZE,1988,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.094
+Azerbaijan,AZE,1987,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.895
+Azerbaijan,AZE,1986,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.697
+Azerbaijan,AZE,1985,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.498
+Azerbaijan,AZE,1984,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.299
+Azerbaijan,AZE,1983,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.139
+Azerbaijan,AZE,1982,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.018
+Azerbaijan,AZE,1981,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.897
+Azerbaijan,AZE,1980,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.777
+Azerbaijan,AZE,1979,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.655
+Azerbaijan,AZE,1978,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.492
+Azerbaijan,AZE,1977,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.294
+Azerbaijan,AZE,1976,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.096
+Azerbaijan,AZE,1975,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.897
+Azerbaijan,AZE,1974,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.698
+Azerbaijan,AZE,1973,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.371
+Azerbaijan,AZE,1972,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.917
+Azerbaijan,AZE,1971,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.462
+Azerbaijan,AZE,1970,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.008
+Azerbaijan,AZE,1969,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.963
+Azerbaijan,AZE,1968,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.263
+Azerbaijan,AZE,1967,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.564
+Azerbaijan,AZE,1966,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.864
+Azerbaijan,AZE,1965,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.164
+Azerbaijan,AZE,1964,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.464
+Azerbaijan,AZE,1963,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.764
+Azerbaijan,AZE,1962,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.064
+Azerbaijan,AZE,1961,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.364
+Azerbaijan,AZE,1960,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.663

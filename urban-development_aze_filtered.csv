@@ -1,0 +1,9 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Azerbaijan,AZE,2012,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,26.92667
+Azerbaijan,AZE,2010,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,26.92667
+Azerbaijan,AZE,2008,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,26.92667
+Azerbaijan,AZE,2006,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,32.93
+Azerbaijan,AZE,2004,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,38.93333
+Azerbaijan,AZE,2002,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,44.93667
+Azerbaijan,AZE,2000,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,50.94
